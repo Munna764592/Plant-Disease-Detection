@@ -19,14 +19,9 @@
 * Each image has its corresponding disease name, so you can verify whether the model is working perfectly or not
 
 
-## ⭐Snippet of Web App :
+## Snippet of Web App :
 #### Main page
-<img src = "demo_images/1.png" > <br>
-#### AI Engine 
-<img src = "demo_images/2.png"> <br>
+<img src = "demo_images/Screenshot 2024-04-24 173322.png" > <br>
+
 #### Results Page 
 <img src = "demo_images/3.png"> <br>
-#### Supplements/Fertilizer  Store
-<img src = "demo_images/4.JPG"> <br>
-#### Contact Us 
-<img src = "demo_images/5.png"> <br><br>

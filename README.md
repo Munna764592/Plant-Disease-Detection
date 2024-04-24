@@ -9,7 +9,7 @@
 * Go to the `Flask Deployed App` folder.
 * Download the pre-trained model file `plant_disease_model_1.pt` from [here](https://drive.google.com/file/d/1yzNs-LFl3V4BsoVqz4Vw6YSDZgYeziwV/view?usp=sharing)
 * Add the downloaded file in `Flask Deployed App` folder.
-* Run the Flask app using below command `python3 app.py`
+* Run the Flask app using below command `python app.py runserver`
 * You can also use downloaded file in `Model` Section and play with it using Jupyter Notebook.
 
 

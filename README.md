@@ -24,4 +24,4 @@
 <img src = "demo_images/Screenshot 2024-04-24 173322.png" > <br>
 
 #### Results Page 
-<img src = "demo_images/3.png"> <br>
+<img src = "demo_images/Screenshot 2024-04-24 173422.png"> <br>
